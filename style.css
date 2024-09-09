@@ -1,0 +1,51 @@
+img {
+  width: 600px;
+  margin: 0 auto;
+}
+
+html {
+  background-color: #cabfb6;
+}
+
+#Explore {
+  color: black;
+  text-decoration: none;
+  background-color: #c9793b;
+  padding: 10px 30px;
+  border-radius: 3.5px;
+}
+
+#Explore:hover {
+  border: black solid;
+  border-radius: 1pc;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #ffffff;
+  width: 600px;
+  padding: 10px 100px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-family: "Proza Libre", sans-serif;
+}
+
+.Center {
+  text-align: center;
+}
+
+.android {
+  font-size: 20px;
+  background-color: #a4c93b;
+  border-color: #d8dde9;
+  padding: 5px 20px;
+}
+
+.apple {
+  font-size: 20px;
+  background-color: #b6bcca;
+  border-color: #d8dde9;
+  padding: 5px 20px;
+}
